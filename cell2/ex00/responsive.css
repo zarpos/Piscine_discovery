@@ -1,0 +1,17 @@
+
+table {
+	border-collapse: collapse;
+	width: 100%;
+}
+
+td {
+	border: black 2px solid;
+}
+
+#first {
+	background-color: #C3C77D;
+}
+
+#second {
+	background-color: #F9C4AF;
+}
